@@ -1,10 +1,10 @@
 # Catwigs
 
-Created by Libby Miller and Richard Sewell.
+Created by <a href="http;//planb.nicecupoftea.org">Libby Miller</a> and <a href="http://jarkman.co.uk">Richard Sewell</a>.
 
 See the <a href="http://catwigs.org">Catwigs website</a> or <a 
 href="https://planb.nicecupoftea.org/2014/12/13/catwigs-a-conversation-with-your-project/">blog post</a> 
-for more information.
+for more information, background and instructions.
 
 <a rel="license" 
 href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative 
